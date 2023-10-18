@@ -7,9 +7,11 @@ Es una _actividad_ de **clase** realizada con el fin de aprender a utilizar __gi
 
 Para realizar algunas actividades he acudido a la inestimable ayuda de mi amigo y compañero de clase *Torovi*.
 
+[Aquí dejo su repositorio](https://github.com/ZazzaElItaliano/Las3000Viviendas.git)
+
 Con mi repositorio sentirás las siguientes emociones:
 
-- Verguenza
+- Vergüenza
     * Ajena
     * Cringe
 - Felicidad
